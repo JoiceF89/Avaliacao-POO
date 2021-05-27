@@ -11,7 +11,6 @@ A proposta do projeto foi desenvolver um código em java com opção de escolher
  - Desenvolver um programa em na linguagem Java, que tivesse os requisitos de classe, métodos, objetos, atributos, etc.
  
 ## Autores
-<b>[Elaine Cristina de Paula] >b<
-<b>[Joice Gonçalves Furigo]>b<
- <b>[Vanessa Amélia Rotoli] >b<
-
+[Elaine Cristina de Paula]
+[Joice Gonçalves Furigo]
+[Vanessa Amélia Rotoli]
