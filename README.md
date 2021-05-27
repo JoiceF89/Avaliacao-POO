@@ -8,9 +8,9 @@ A proposta do projeto foi desenvolver um código em java com opção de escolher
 
 
 ## Fluxo de trabalho
- - Desenvolver um programa em na linguagem Java, que tivesse os requisitos de classe, métodos, objetos, atributos, etc.
+ - Desenvolver um programana linguagem Java, que tivesse os requisitos de classe, métodos, objetos, atributos, etc.
  
 ## Autores
-[Elaine Cristina de Paula]
-[Joice Gonçalves Furigo]
-[Vanessa Amélia Rotoli]
+[Elaine Cristina de Paula,
+Joice Gonçalves Furigo,
+Vanessa Amélia Rotoli]
